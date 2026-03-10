@@ -73,19 +73,6 @@ const dev = {
 
 ---
 
-## 🚀 Proyectos Destacados
-
-> 💡 *Reemplaza estos cards con tus proyectos reales*
-
-<div align="center">
-
-[![Proyecto 1](https://github-readme-stats.vercel.app/api/pin/?username=felipemarinmt-cmd&repo=NOMBRE_REPO_1&theme=tokyonight&hide_border=true)](https://github.com/felipemarinmt-cmd/NOMBRE_REPO_1)
-[![Proyecto 2](https://github-readme-stats.vercel.app/api/pin/?username=felipemarinmt-cmd&repo=NOMBRE_REPO_2&theme=tokyonight&hide_border=true)](https://github.com/felipemarinmt-cmd/NOMBRE_REPO_2)
-
-</div>
-
----
-
 ## 📈 Actividad
 
 <div align="center">
