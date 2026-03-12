@@ -26,11 +26,10 @@ const dev = {
 };
 ```
 
-- 🎓 Estudiante de **Programación de Software**
-- 🌱 Actualmente aprendiendo **Node.js, Express y arquitecturas REST**
-- 💡 Me apasiona construir soluciones web desde el frontend hasta la base de datos
-- 🤝 Abierto a colaborar en proyectos de práctica y open source
-- ⚡ Fun fact: depuro código con café ☕ y música lo-fi 🎵
+-  Estudiante de **Programación de Software**
+-  Actualmente aprendiendo **Node.js, Express y arquitecturas REST**
+-  Me apasiona construir soluciones web desde el frontend hasta la base de datos
+-  Abierto a colaborar en proyectos de práctica y open source
 
 ---
 
