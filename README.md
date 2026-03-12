@@ -13,7 +13,7 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+##  Sobre mí
 
 ```javascript
 const dev = {
@@ -33,7 +33,7 @@ const dev = {
 
 ---
 
-## 🛠️ Stack Tecnológico
+##  Stack Tecnológico
 
 <div align="center">
 
@@ -59,7 +59,7 @@ const dev = {
 
 ---
 
-## 📊 Estadísticas de GitHub
+##  Estadísticas de GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipemarinmt-cmd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -72,7 +72,7 @@ const dev = {
 
 ---
 
-## 📈 Actividad
+##  Actividad
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=felipemarinmt-cmd&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
@@ -80,7 +80,7 @@ const dev = {
 
 ---
 
-## 🌐 Conéctate conmigo
+##  Conéctate conmigo
 
 <div align="center">
 
@@ -97,7 +97,7 @@ const dev = {
 <!-- Footer animado -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
-*"El código que escribes hoy es la base del desarrollador que serás mañana."* 💜
+*"El código que escribes hoy es la base del desarrollador que serás mañana."* 
 
 </div>
 ing README (1).md…]()
