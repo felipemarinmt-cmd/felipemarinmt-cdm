@@ -1,19 +1,22 @@
-
+# 👋 Felipe Marin
 
 <!-- Banner animado con nombre -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Felipe%20Marin&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20in%20progress%20🚀&descAlignY=55&descSize=18&animation=fadeIn" />
 
+<!-- Imagen del desarrollador -->
+<div align="center">
+  <img src="./assets/dev-coding.png" width="280" alt="dev coding" />
+</div>
+
 <!-- Insignias de visitas y seguidores -->
-<p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=felipemarinmt-cmd&label=Profile%20views&color=302b63&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/felipemarinmt-cmd?label=Followers&style=flat&color=302b63" alt="followers" />
 </p>
 
-</div>
-
 ---
 
-##  Sobre mí
+## 🧑‍💻 Sobre mí
 
 ```javascript
 const dev = {
@@ -26,14 +29,14 @@ const dev = {
 };
 ```
 
--  Estudiante de **Programación de Software**
--  Actualmente aprendiendo **Node.js, Express y arquitecturas REST**
--  Me apasiona construir soluciones web desde el frontend hasta la base de datos
--  Abierto a colaborar en proyectos de práctica y open source
+- 🎓 Estudiante de **Programación de Software**
+- 🌱 Actualmente aprendiendo **Node.js, Express y arquitecturas REST**
+- 💡 Me apasiona construir soluciones web desde el frontend hasta la base de datos
+- 🤝 Abierto a colaborar en proyectos de práctica y open source
 
 ---
 
-##  Stack Tecnológico
+## 🛠️ Stack Tecnológico
 
 <div align="center">
 
@@ -59,7 +62,7 @@ const dev = {
 
 ---
 
-##  Estadísticas de GitHub
+## 📊 Estadísticas de GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipemarinmt-cmd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -72,7 +75,7 @@ const dev = {
 
 ---
 
-##  Actividad
+## 📈 Actividad
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=felipemarinmt-cmd&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
@@ -80,7 +83,7 @@ const dev = {
 
 ---
 
-##  Conéctate conmigo
+## 🌐 Conéctate conmigo
 
 <div align="center">
 
@@ -97,7 +100,6 @@ const dev = {
 <!-- Footer animado -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
-*"El código que escribes hoy es la base del desarrollador que serás mañana."* 
+*"El código que escribes hoy es la base del desarrollador que serás mañana."*
 
 </div>
-ing README (1).md…]()
