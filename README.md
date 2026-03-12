@@ -5,7 +5,7 @@
 
 <!-- Imagen del desarrollador -->
 <div align="center">
-  <img src="./dev-coding.png" width="280" alt="dev coding" />
+  <img src="./assets/dev-coding.png" width="280" alt="dev coding" />
 </div>
 
 <!-- Insignias de visitas y seguidores -->
